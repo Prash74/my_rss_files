@@ -5,9 +5,9 @@
     <description>This is an example rss feed</description>
     <category>Example</category>
     <image>
-      <url>https://odestooats.com/wp-content/uploads/2015/03/March5_20121.jpg</url>
-      <title>Odes to Oats</title>
-      <link>https://github.com/bplaster</link>
+      <url>https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png</url>
+      <title>Liverpool FC</title>
+      <link>https://www.liverpool.com</link>
     </image>
     <item>
       <title>Liverpool vs Norwich</title>
